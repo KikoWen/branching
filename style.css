@@ -5,6 +5,12 @@
 	list-style-type: none;
 }
 
+.container{
+	width: 50em;
+	margin-top: 4em;
+	margin: auto;
+}
+
 h1 {
 	color: coral;
 }
